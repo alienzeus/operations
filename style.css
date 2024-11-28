@@ -79,8 +79,16 @@ body.dark-mode {
     text-decoration: underline;
 }
 
+p.note {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: #7577f8;
+    font-weight: bold;
+    text-shadow: #f1f1f1;
+}
+
 footer {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 18px;
     color: whitesmoke;
     position: fixed;
@@ -92,5 +100,5 @@ footer {
 
 a.credit {
     text-decoration: none;
-    color: #bff5c2;
+    color: #348fda;
 }
